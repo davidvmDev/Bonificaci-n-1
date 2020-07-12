@@ -1,26 +1,10 @@
-.tit {
-    text-align: center;
-    font-size: larger;
-    margin: 3%;
-    text-decoration: none;
-    color: black;
+footer{
+    padding: 2% 15% 0% 12%;
 }
-#marca {
-    font-size: 50px;
-    font-weight: 700;
-    font-family: monospace;
-}
-#btn{
-    float: right;
-    margin: 15px;
-    background-color: black;
-    color: white;
-    height: 50px;
+#footerImg{
+    height: 80px;
     width: 120px;
-    margin-right: 8%;
 }
-nav{
-    display: block;
-    text-emphasis: 'none';
-    
+#footText{
+    float: right;
 }
