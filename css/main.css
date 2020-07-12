@@ -1,26 +1,25 @@
-.tit {
-    text-align: center;
-    font-size: larger;
-    margin: 3%;
-    text-decoration: none;
-    color: black;
+
+img{
+    height: 200px;
+    width: 200px;
 }
-#marca {
-    font-size: 50px;
-    font-weight: 700;
-    font-family: monospace;
+article{
+    padding: 5% 0% 0% 22%;
 }
-#btn{
-    float: right;
-    margin: 15px;
-    background-color: black;
-    color: white;
-    height: 50px;
-    width: 120px;
-    margin-right: 8%;
+section{
+    display: flex;
+    align-items: center
 }
-nav{
-    display: block;
-    text-emphasis: 'none';
-    
+#user1{
+    margin-left: 10%;
+}
+#user2{
+    margin-right: 10%;
+}
+h4{
+    font-size: large;
+    font-weight: 100;
+}
+footer{
+    padding: 2% 15% 0% 12%;
 }
