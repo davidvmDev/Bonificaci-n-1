@@ -23,3 +23,10 @@ h4{
 footer{
     padding: 2% 15% 0% 12%;
 }
+#footerImg{
+    height: 80px;
+    width: 120px;
+}
+#footText{
+    float: right;
+}
